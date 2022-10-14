@@ -1,0 +1,8 @@
+package fundamentos;
+
+public class AreadaCircunferencia {
+	int raio = 3;
+	double pi = 3.14159;
+	
+	System.out.println(pi * raio * raio);
+}

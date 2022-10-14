@@ -1,0 +1,15 @@
+package fundamentos;
+
+public class Temperatura {
+	public static void main(String[] args) {
+		double F = 50;
+		
+		double Dividido = 5/9;
+		
+		double Conversor = (F - 32) * Dividido ;
+		
+		double C = Conversor;
+		
+		System.out.println(C);
+	}
+}
